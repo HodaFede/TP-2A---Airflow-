@@ -6,3 +6,5 @@ airflow.db
 airflow.cfg
 logs/
 simple_auth_manager_passwords.json.generated
+.DS_Store
+".gitignore 2"
